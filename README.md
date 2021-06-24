@@ -1,5 +1,5 @@
 # project001
-Low Level template for node.js projects
+Low Level template for projects
 ## Overview
 
 ## Usage
